@@ -9,14 +9,16 @@ html {
 .wrapper {
     position: center;
     padding-top: 80px;
+    margin-left: 90px;
     width: 90%;
     background-color: rebeccapurple;
 }
 
-img{
-    width: 200px;
-    height:200px
+img {
+    width: 250px;
+    height: 200px
 }
+
 nav {
     height: 80px;
     width: 100%;
@@ -26,19 +28,21 @@ nav {
     background-color: #11679b;
     color: white;
     box-sizing: border-box;
-    padding: 20px 8px;
+    padding-top: 14px;
+    padding-left: 15px;
 }
 
 h1, h2, h3, h4, h5, h6, p {
     margin-bottom: 20px;
     text-align: center;
     position: relative;
-    color: white;
+    color: gold;
 }
 
 a {
-    color: white;
+    color: #d3c6f5;
     text-decoration: none;
     margin-right: 20px;
     font-size: 45px;
+    font-weight: bold;
 }
